@@ -23,3 +23,14 @@ void loop()
   }
 delay(100);
 }
+
+
+REQUIREMENTS:
+
+1. Arduino Uno
+2. Buzzer
+3. Ultrasonic Sensor
+4. 5V Battery
+5. LEDs - 3 different colors
+6. Resistance
+7. Jump Pins
