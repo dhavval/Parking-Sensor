@@ -2,27 +2,11 @@
 
 <img src="Circuit_Basic.PNG">
 
-#include<ultrasonic.h>
-Ultrasonic ultrasonic(6,5);
-const int buzzer = 7;
+CODE ALGORITHM:
 
-void setup()
-{
- pinMode(buzzer,OUTPUT);
- }
- 
-void loop()
-{
- int dist = ultrasonic.Ranging(CM);
- if (dist<100) 
- {
-  distance tone (buzzer,100);
-  delay(40);
-  noTone(buzzer);
-  delay(dist * 4);
-  }
-delay(100);
-}
+1. Initiate Ultrasonic Sensor.
+2. Define the range of sensor.
+3. Define the frequency of buzzer.
 
 
 REQUIREMENTS:
