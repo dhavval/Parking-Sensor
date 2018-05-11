@@ -18,3 +18,6 @@ REQUIREMENTS:
 5. LEDs - 3 different colors
 6. Resistance
 7. Jump Pins
+
+BreadBoard:
+<img src="Circuit_Basic.PNG">
