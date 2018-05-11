@@ -20,4 +20,4 @@ REQUIREMENTS:
 7. Jump Pins
 
 BreadBoard:
-<img src="Circuit_Basic.PNG">
+<img src="parkingSensor_bb.jpg">
