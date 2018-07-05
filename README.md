@@ -1,6 +1,6 @@
 # Build a parking sensor that estimates distance using an ultrasonic sensor and produces a beeper signal with varied frequencies based on different threshold ranges. The electronic circuit is built based on Arduino Uno microcontroller. 
 
-<img src="Circuit_Basic.PNG">
+<img src="Parking_Sensor_Sketch.jpg">
 
 CODE ALGORITHM:
 
@@ -19,5 +19,5 @@ REQUIREMENTS:
 6. Resistance
 7. Jump Pins
 
-BreadBoard:
-<img src="parkingSensor_bb.jpg">
+Schematic:
+<img src="schema.jpg">
